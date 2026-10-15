@@ -1,0 +1,14 @@
+برای ساخت مخزن GitHub، محتوای این پوشه را آپلود کنید (نه فایل ZIP والد):
+- README.md
+- dashboard.py
+- pricing_module.py
+- sales_analytics_module.py
+- logo.png
+- launcher.py
+- requirements.txt
+- build_windows.bat
+- RUN_PROTOBAZAR.bat
+- .gitignore
+- .github/workflows/build-windows.yml
+
+پوشه‌های dist، build، .venv و فایل‌های اطلاعات واقعی فروش/مشتری را آپلود نکنید.
